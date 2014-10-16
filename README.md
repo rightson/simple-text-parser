@@ -1,4 +1,9 @@
 simple-text-parser
 ==================
 
-Simple text parser provide a naive usage of line parser.
+Simple text parser provides a naive usage of line parser.
+
+
+
+### statistics.js
+simple tool that can summarize row counts of specific column.
